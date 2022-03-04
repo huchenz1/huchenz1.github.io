@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>My New Post</title>
-    <link href="/2022/03/04/My-New-Post/"/>
-    <url>/2022/03/04/My-New-Post/</url>
+    <title>the first</title>
+    <link href="/2022/03/05/the-first/"/>
+    <url>/2022/03/05/the-first/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h2 id="github"><a href="#github" class="headerlink" title="github"></a>github</h2><p>终于折腾好了这个github pages的博客，其实本身是有一个wordpress的私人博客的，但我想把生活和技术分开一些，而且刚好学一下hexo和GitHub的命令，还是要多实践才会熟悉。而且记录的功能也很重要，像之前一直每次换vps的生活搭梯子都要折腾半天，就能遇到之前解决了但是现在又想不起来当时怎么解决的问题，其实最主要的就是当时解决的时候也没完全弄清楚原理，像计算机这些出现的问题有时候想完全搞懂还是挺难的。</p><p>先写到这里，要去准备睡觉了。慢慢熟悉下markdown。</p>]]></content>
     
     
     
